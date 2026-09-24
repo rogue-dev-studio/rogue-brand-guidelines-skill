@@ -4,7 +4,7 @@
 
 Apply Rogue Development brand colors and typography to artifacts (docs, slides, landing pages, social creatives). Use when brand colors, visual identity, or company design standards for Rogue Development / AI Agents Rogue apply.
 
-- Market: https://rogue-dev-studio.github.io/rogue-market-agent/
+- Asset Store: https://rogue-dev-studio.github.io/rogue-asset-store/
 - Skill id: `brand-guidelines`
 
 ## Install
